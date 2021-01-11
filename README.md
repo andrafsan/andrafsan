@@ -5,7 +5,6 @@
 
 
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrafsan" alt="rafsan" /> </p>
 
 - 🔭 I’m currently working on []()
@@ -34,6 +33,4 @@
 
 
 ![rafsan's github stats](https://github-readme-stats.vercel.app/api?username=andrafsan&theme=blue&show_icons=true)
-
-
 
