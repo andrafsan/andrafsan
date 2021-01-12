@@ -2,9 +2,6 @@
 <h3 align="center">A self-motivated programmer and born at very little age😜</h3>
 
 
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrafsan" alt="rafsan" /> </p>
 
 - 🔭 I’m currently working on []()
